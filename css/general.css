@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html{
+	background-color: #e2e2e2;
+	font: normal 100%/1.5 Georgia,serif;
+	/*
+	font: font-weight font-size/line-height font-family;
+	*/
+}
+
